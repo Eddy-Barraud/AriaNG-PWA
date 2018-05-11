@@ -23,7 +23,8 @@ More details here : [https://github.com/mayswind/AriaNg/](https://github.com/may
 
 ## Installation
 
-Directly install the application on the windows store.
+Directly install the application in the windows store.
+After that, it will ask you to download an executable to install the aria2c-rpc service and allow the application to access the localnetwork loopback (localhost).
 
 You can also build the UWP PWA app with Visual Studio. I used Windows Template to build it.
 
