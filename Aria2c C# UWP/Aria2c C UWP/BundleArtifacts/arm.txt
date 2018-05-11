@@ -1,0 +1,6 @@
+MainPackage=C:\Users\eddy.EDDY-PC\source\repos\Aria2c C UWP\Aria2c C UWP\bin\ARM\Release\Aria2c_C_UWP_1.0.0.0_ARM.appx
+SymbolPackage=C:\Users\eddy.EDDY-PC\source\repos\Aria2c C UWP\Aria2c C UWP\AppPackages\Aria2c_C_UWP_1.0.0.0_Test\Aria2c_C_UWP_1.0.0.0_ARM.appxsym
+ResourcePack=C:\Users\eddy.EDDY-PC\source\repos\Aria2c C UWP\Aria2c C UWP\bin\ARM\Release\Aria2c_C_UWP_1.0.0.0_scale-100.appx
+ResourcePack=C:\Users\eddy.EDDY-PC\source\repos\Aria2c C UWP\Aria2c C UWP\bin\ARM\Release\Aria2c_C_UWP_1.0.0.0_scale-125.appx
+ResourcePack=C:\Users\eddy.EDDY-PC\source\repos\Aria2c C UWP\Aria2c C UWP\bin\ARM\Release\Aria2c_C_UWP_1.0.0.0_scale-150.appx
+ResourcePack=C:\Users\eddy.EDDY-PC\source\repos\Aria2c C UWP\Aria2c C UWP\bin\ARM\Release\Aria2c_C_UWP_1.0.0.0_scale-400.appx

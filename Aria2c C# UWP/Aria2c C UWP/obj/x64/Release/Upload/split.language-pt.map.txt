@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-pt"
+"ResourceDimensions"		"language-pt-br"
+
+[Files]
+"C:\Users\eddy.EDDY-PC\source\repos\Aria2c C UWP\Aria2c C UWP\obj\x64\Release\Upload\split.language-pt.pri"			"resources.pri"

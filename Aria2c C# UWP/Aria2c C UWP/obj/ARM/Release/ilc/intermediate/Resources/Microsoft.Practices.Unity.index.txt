@@ -1,0 +1,2 @@
+Microsoft.Practices.Unity, Version=4.0.0.0, Culture=neutral, PublicKeyToken=6d32ff45e0ccc69f
+  Microsoft.Practices.Unity.Properties.Resources.resources

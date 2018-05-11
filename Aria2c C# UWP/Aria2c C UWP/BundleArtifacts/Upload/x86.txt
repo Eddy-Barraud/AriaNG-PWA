@@ -1,0 +1,2 @@
+MainPackage=C:\Users\eddy.EDDY-PC\source\repos\Aria2c C UWP\Aria2c C UWP\bin\x86\Release\Upload\Aria2c_C_UWP_1.6.0.0_x86.appx
+SymbolPackage=C:\Users\eddy.EDDY-PC\source\repos\Aria2c C UWP\Aria2c C UWP\bin\x86\Release\Upload\Aria2c_C_UWP_1.6.0.0\Aria2c_C_UWP_1.6.0.0_x86.appxsym

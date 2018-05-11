@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="44050trevalim.Aria2crpc" version="1.0" primary="true">
+		<Qualifiers>
+			<AlternateForm>UNPLATED</AlternateForm>
+			<Language>EN,EN-US</Language>
+			<Scale>200</Scale>
+			<TargetSize>256,16,24,32,48</TargetSize>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://44050trevalim.Aria2crpc/Files/App.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Aria2c_C_UWP.xr.xml" uri="ms-resource://44050trevalim.Aria2crpc/Files/Aria2c_C_UWP.xr.xml">
+				<Candidate type="Path">
+					<Value>Aria2c_C_UWP.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="BadgeLogo.png" uri="ms-resource://44050trevalim.Aria2crpc/Files/Assets/BadgeLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\BadgeLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="LargeTile.png" uri="ms-resource://44050trevalim.Aria2crpc/Files/Assets/LargeTile.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\LargeTile.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="LockScreenLogo.png" uri="ms-resource://44050trevalim.Aria2crpc/Files/Assets/LockScreenLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\LockScreenLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallTile.png" uri="ms-resource://44050trevalim.Aria2crpc/Files/Assets/SmallTile.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\SmallTile.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://44050trevalim.Aria2crpc/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://44050trevalim.Aria2crpc/Files/Assets/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square150x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://44050trevalim.Aria2crpc/Files/Assets/Square44x44Logo.png">
+					<Candidate qualifiers="TargetSize-48, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-48" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-48.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-32, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-unplated_targetsize-32.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-32" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-32.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-256, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-256" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-256.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-24, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-24" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-24.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-16, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-16" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-16.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://44050trevalim.Aria2crpc/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://44050trevalim.Aria2crpc/Files/Assets/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Properties">
+				<NamedResource name="Default.rd.xml" uri="ms-resource://44050trevalim.Aria2crpc/Files/Properties/Default.rd.xml">
+					<Candidate type="Path">
+						<Value>Properties\Default.rd.xml</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Styles">
+				<NamedResource name="Page.xbf" uri="ms-resource://44050trevalim.Aria2crpc/Files/Styles/Page.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextBlock.xbf" uri="ms-resource://44050trevalim.Aria2crpc/Files/Styles/TextBlock.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="_Colors.xbf" uri="ms-resource://44050trevalim.Aria2crpc/Files/Styles/_Colors.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="_FontSizes.xbf" uri="ms-resource://44050trevalim.Aria2crpc/Files/Styles/_FontSizes.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="_Thickness.xbf" uri="ms-resource://44050trevalim.Aria2crpc/Files/Styles/_Thickness.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Views">
+				<NamedResource name="WebViewPage.xbf" uri="ms-resource://44050trevalim.Aria2crpc/Files/Views/WebViewPage.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="WinMetadata">
+				<NamedResource name="Windows.winmd" uri="ms-resource://44050trevalim.Aria2crpc/Files/WinMetadata/Windows.winmd">
+					<Candidate type="Path">
+						<Value>WinMetadata\Windows.winmd</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Microsoft.Practices.ServiceLocation.Properties.Resources">
+			<NamedResource name="ActivateAllExceptionMessage" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.ServiceLocation.Properties.Resources/ActivateAllExceptionMessage">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Activation error occurred while trying to get all instances of type {0}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ActivationExceptionMessage" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.ServiceLocation.Properties.Resources/ActivationExceptionMessage">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Activation error occurred while trying to get instance of type {0}, key "{1}"</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ServiceLocationProviderNotSetMessage" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.ServiceLocation.Properties.Resources/ServiceLocationProviderNotSetMessage">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>ServiceLocationProvider must be set.</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Microsoft.Practices.Unity.Properties.Resources">
+			<NamedResource name="AmbiguousInjectionConstructor" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/AmbiguousInjectionConstructor">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>The type {0} has multiple constructors of length {1}. Unable to disambiguate.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ArgumentMustNotBeEmpty" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/ArgumentMustNotBeEmpty">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>The provided string argument must not be empty.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="BuildFailedException" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/BuildFailedException">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>The current build operation (build key {2}) failed: {3} (Strategy type {0}, index {1})</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CannotConstructAbstractClass" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/CannotConstructAbstractClass">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>The current type, {0}, is an abstract class and cannot be constructed. Are you missing a type mapping?</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CannotConstructDelegate" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/CannotConstructDelegate">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>The current type, {0}, is delegate and cannot be constructed. Unity only supports resolving Func&lt;T&gt; and Func&lt;IEnumerable&lt;T&gt;&gt; by default.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CannotConstructInterface" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/CannotConstructInterface">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>The current type, {0}, is an interface and cannot be constructed. Are you missing a type mapping?</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CannotExtractTypeFromBuildKey" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/CannotExtractTypeFromBuildKey">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>Cannot extract type from build key {0}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CannotInjectGenericMethod" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/CannotInjectGenericMethod">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>The method {0}.{1}({2}) is an open generic method. Open generic methods cannot be injected.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CannotInjectIndexer" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/CannotInjectIndexer">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>The property {0} on type {1} is an indexer. Indexed properties cannot be injected.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CannotInjectMethodWithOutParam" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/CannotInjectMethodWithOutParam">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>The method {1} on type {0} has an out parameter. Injection cannot be performed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CannotInjectMethodWithOutParams" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/CannotInjectMethodWithOutParams">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>The method {0}.{1}({2}) has at least one out parameter. Methods with out parameters cannot be injected.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CannotInjectMethodWithRefParams" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/CannotInjectMethodWithRefParams">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>The method {0}.{1}({2}) has at least one ref parameter.Methods with ref parameters cannot be injected.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CannotInjectOpenGenericMethod" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/CannotInjectOpenGenericMethod">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>The method {1} on type {0} is marked for injection, but it is an open generic method. Injection cannot be performed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CannotInjectStaticMethod" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/CannotInjectStaticMethod">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>The method {0}.{1}({2}) is static. Static methods cannot be injected.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CannotResolveOpenGenericType" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/CannotResolveOpenGenericType">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>The type {0} is an open generic type. An open generic type cannot be resolved.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ConstructorArgumentResolveOperation" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/ConstructorArgumentResolveOperation">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>Resolving parameter "{0}" of constructor {1}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ConstructorParameterResolutionFailed" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/ConstructorParameterResolutionFailed">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>The parameter {0} could not be resolved when attempting to call constructor {1}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ExceptionNullParameterValue" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/ExceptionNullParameterValue">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>Parameter type inference does not work for null values. Indicate the parameter type explicitly using a properly configured instance of the InjectionParameter or InjectionParameter&lt;T&gt; classes.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvokingConstructorOperation" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/InvokingConstructorOperation">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>Calling constructor {0}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvokingMethodOperation" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/InvokingMethodOperation">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>Calling method {0}.{1}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="KeyAlreadyPresent" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/KeyAlreadyPresent">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>An item with the given key is already present in the dictionary.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="LifetimeManagerInUse" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/LifetimeManagerInUse">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>The lifetime manager is already registered. Lifetime managers cannot be reused, please create a new one.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MarkerBuildPlanInvoked" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/MarkerBuildPlanInvoked">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>The override marker build plan policy has been invoked. This should never happen, looks like a bug in the container.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MethodArgumentResolveOperation" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/MethodArgumentResolveOperation">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>Resolving parameter "{0}" of method {1}.{2}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MethodParameterResolutionFailed" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/MethodParameterResolutionFailed">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>The value for parameter "{1}" of method {0} could not be resolved. </Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MissingDependency" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/MissingDependency">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>Could not resolve dependency for build key {0}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MultipleInjectionConstructors" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/MultipleInjectionConstructors">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>The type {0} has multiple constructors marked with the InjectionConstructor attribute. Unable to disambiguate.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MustHaveOpenGenericType" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/MustHaveOpenGenericType">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>The supplied type {0} must be an open generic type.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MustHaveSameNumberOfGenericArguments" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/MustHaveSameNumberOfGenericArguments">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>The supplied type {0} does not have the same number of generic arguments as the target type {1}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoConstructorFound" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/NoConstructorFound">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>The type {0} does not have an accessible constructor.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoMatchingGenericArgument" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/NoMatchingGenericArgument">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>The type {0} does not have a generic argument named "{1}"</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoOperationExceptionReason" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/NoOperationExceptionReason">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>while resolving</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoSuchConstructor" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/NoSuchConstructor">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>The type {0} does not have a constructor that takes the parameters ({1}).</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoSuchMethod" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/NoSuchMethod">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>The type {0} does not have a public method named {1} that takes the parameters ({2}).</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoSuchProperty" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/NoSuchProperty">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>The type {0} does not contain an instance property named {1}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NotAGenericType" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/NotAGenericType">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>The type {0} is not a generic type, and you are attempting to inject a generic parameter named "{1}".</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NotAnArrayTypeWithRankOne" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/NotAnArrayTypeWithRankOne">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>The type {0} is not an array type with rank 1, and you are attempting to use a [DependencyArray] attribute on a parameter or property with this type.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="OptionalDependenciesMustBeReferenceTypes" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/OptionalDependenciesMustBeReferenceTypes">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>Optional dependencies must be reference types. The type {0} is a value type.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PropertyNotSettable" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/PropertyNotSettable">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>The property {0} on type {1} is not settable.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PropertyTypeMismatch" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/PropertyTypeMismatch">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>The property {0} on type {1} is of type {2}, and cannot be injected with a value of type {3}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PropertyValueResolutionFailed" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/PropertyValueResolutionFailed">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>The value for the property "{0}" could not be resolved.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ProvidedStringArgMustNotBeEmpty" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/ProvidedStringArgMustNotBeEmpty">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>The provided string argument must not be empty.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ResolutionFailed" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/ResolutionFailed">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>Resolution of the dependency failed, type = "{0}", name = "{1}".
+Exception occurred while: {2}.
+Exception is: {3} - {4}
+-----------------------------------------------
+At the time of the exception, the container was:
+</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ResolutionTraceDetail" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/ResolutionTraceDetail">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>Resolving {0},{1}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ResolutionWithMappingTraceDetail" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/ResolutionWithMappingTraceDetail">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>Resolving {0},{1} (mapped from {2}, {3})</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ResolvingPropertyValueOperation" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/ResolvingPropertyValueOperation">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>Resolving value for property {0}.{1}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SelectedConstructorHasRefParameters" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/SelectedConstructorHasRefParameters">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>The constructor {1} selected for type {0} has ref or out parameters. Such parameters are not supported for constructor injection.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SettingPropertyOperation" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/SettingPropertyOperation">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>Setting value for property {0}.{1}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TypeIsNotConstructable" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/TypeIsNotConstructable">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>The type {0} cannot be constructed. You must configure the container to supply this value.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TypesAreNotAssignable" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/TypesAreNotAssignable">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>The type {1} cannot be assigned to variables of type {0}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnknownType" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.Properties.Resources/UnknownType">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>&lt;unknown&gt;</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Microsoft.Practices.Unity.RegistrationByConvention">
+			<ResourceMapSubtree name="Resources">
+				<NamedResource name="DuplicateTypeMappingException" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.RegistrationByConvention/Resources/DuplicateTypeMappingException">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>An attempt to override an existing mapping was detected for type {1} with name "{0}", currently mapped to type {2}, to type {3}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ExceptionNullAssembly" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Practices.Unity.RegistrationByConvention/Resources/ExceptionNullAssembly">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>The set of assemblies contains a null element.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Microsoft.Xaml.Interactions">
+			<ResourceMapSubtree name="Strings">
+				<NamedResource name="CallMethodActionValidMethodNotFoundExceptionMessage" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Xaml.Interactions/Strings/CallMethodActionValidMethodNotFoundExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Cannot find method named {0} on object of type {1} that matches the expected signature.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CannotAttachBehaviorMultipleTimesExceptionMessage" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Xaml.Interactions/Strings/CannotAttachBehaviorMultipleTimesExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>An instance of a behavior cannot be attached to more than one object at a time.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CannotFindEventNameExceptionMessage" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Xaml.Interactions/Strings/CannotFindEventNameExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Cannot find an event named {0} on type {1}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ChangePropertyActionCannotFindPropertyNameExceptionMessage" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Xaml.Interactions/Strings/ChangePropertyActionCannotFindPropertyNameExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Cannot find a property named {0} on type {1}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ChangePropertyActionCannotSetValueExceptionMessage" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Xaml.Interactions/Strings/ChangePropertyActionCannotSetValueExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Cannot assign value of type {0} to property {1} of type {2}. The {1} property can be assigned only values of type {2}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ChangePropertyActionPropertyIsReadOnlyExceptionMessage" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Xaml.Interactions/Strings/ChangePropertyActionPropertyIsReadOnlyExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Property {0} defined by type {1} does not expose a set method and therefore cannot be modified.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="EventNotSupportedExceptionMessage" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Xaml.Interactions/Strings/EventNotSupportedExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Event {0} is not supported. Consider implementing a custom IBehavior to respond to this event.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="GoToStateActionTargetHasNoStateGroups" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Xaml.Interactions/Strings/GoToStateActionTargetHasNoStateGroups">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Target {0} does not define any VisualStateGroups.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidLeftOperand" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Xaml.Interactions/Strings/InvalidLeftOperand">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Binding property of type {0} cannot be used with operator {1}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidOperands" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Xaml.Interactions/Strings/InvalidOperands">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Binding property of type {0} and Value property of type {1} cannot be used with operator {2}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidRightOperand" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Xaml.Interactions/Strings/InvalidRightOperand">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Value property of type {0} cannot be used with operator {1}.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Microsoft.Xaml.Interactivity">
+			<ResourceMapSubtree name="Strings">
+				<NamedResource name="CannotAttachBehaviorMultipleTimesExceptionMessage" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Xaml.Interactivity/Strings/CannotAttachBehaviorMultipleTimesExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>An instance of a behavior cannot be attached to more than one object at a time.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DuplicateBehaviorInCollectionExceptionMessage" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Xaml.Interactivity/Strings/DuplicateBehaviorInCollectionExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Cannot add an instance of a behavior to a BehaviorCollection more than once.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidAssociatedObjectExceptionMessage" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Xaml.Interactivity/Strings/InvalidAssociatedObjectExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AssociatedObject is of type {0} but should be of type {1}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NonActionAddedToActionCollectionExceptionMessage" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Xaml.Interactivity/Strings/NonActionAddedToActionCollectionExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Only IAction types are supported in an ActionCollection.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NonBehaviorAddedToBehaviorCollectionExceptionMessage" uri="ms-resource://44050trevalim.Aria2crpc/Microsoft.Xaml.Interactivity/Strings/NonBehaviorAddedToBehaviorCollectionExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Only IBehavior types are supported in a BehaviorCollection.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Prism.Properties.Resources">
+			<NamedResource name="CannotRegisterCompositeCommandInItself" uri="ms-resource://44050trevalim.Aria2crpc/Prism.Properties.Resources/CannotRegisterCompositeCommandInItself">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>Cannot register a CompositeCommand in itself.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CannotRegisterSameCommandTwice" uri="ms-resource://44050trevalim.Aria2crpc/Prism.Properties.Resources/CannotRegisterSameCommandTwice">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>Cannot register the same command twice in the same CompositeCommand.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DefaultDebugLoggerPattern" uri="ms-resource://44050trevalim.Aria2crpc/Prism.Properties.Resources/DefaultDebugLoggerPattern">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>{1}: {2}. Priority: {3}. Timestamp:{0:u}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DelegateCommandDelegatesCannotBeNull" uri="ms-resource://44050trevalim.Aria2crpc/Prism.Properties.Resources/DelegateCommandDelegatesCannotBeNull">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>Neither the executeMethod nor the canExecuteMethod delegates can be null.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DelegateCommandInvalidGenericPayloadType" uri="ms-resource://44050trevalim.Aria2crpc/Prism.Properties.Resources/DelegateCommandInvalidGenericPayloadType">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>T for DelegateCommand&lt;T&gt; is not an object nor Nullable.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="EventAggregatorNotConstructedOnUIThread" uri="ms-resource://44050trevalim.Aria2crpc/Prism.Properties.Resources/EventAggregatorNotConstructedOnUIThread">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>To use the UIThread option for subscribing, the EventAggregator must be constructed on the UI thread.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidDelegateRerefenceTypeException" uri="ms-resource://44050trevalim.Aria2crpc/Prism.Properties.Resources/InvalidDelegateRerefenceTypeException">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>Invalid Delegate Reference Type Exception</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidPropertyNameException" uri="ms-resource://44050trevalim.Aria2crpc/Prism.Properties.Resources/InvalidPropertyNameException">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>The entity does not contain a property with that name</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PropertySupport_ExpressionNotProperty_Exception" uri="ms-resource://44050trevalim.Aria2crpc/Prism.Properties.Resources/PropertySupport_ExpressionNotProperty_Exception">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>The member access expression does not access a property.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PropertySupport_NotMemberAccessExpression_Exception" uri="ms-resource://44050trevalim.Aria2crpc/Prism.Properties.Resources/PropertySupport_NotMemberAccessExpression_Exception">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>The expression is not a member access expression.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PropertySupport_StaticExpression_Exception" uri="ms-resource://44050trevalim.Aria2crpc/Prism.Properties.Resources/PropertySupport_StaticExpression_Exception">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>The referenced property is a static property.</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Prism.Windows">
+			<ResourceMapSubtree name="Resources">
+				<NamedResource name="DefaultPageTypeLookupErrorMessage" uri="ms-resource://44050trevalim.Aria2crpc/Prism.Windows/Resources/DefaultPageTypeLookupErrorMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>The page name {0} does not have an associated type in namespace {1}</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="FrameAlreadyRegisteredWithKey" uri="ms-resource://44050trevalim.Aria2crpc/Prism.Windows/Resources/FrameAlreadyRegisteredWithKey">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Frames can only be registered to one session state key</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="FrameNavigationServiceUnableResolveMessage" uri="ms-resource://44050trevalim.Aria2crpc/Prism.Windows/Resources/FrameNavigationServiceUnableResolveMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Unable to resolve the pageToken {0} to a type.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="FrameRegistrationRequirement" uri="ms-resource://44050trevalim.Aria2crpc/Prism.Windows/Resources/FrameRegistrationRequirement">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Frames must be either be registered before accessing frame session state, or not registered at all</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidPropertyNameException" uri="ms-resource://44050trevalim.Aria2crpc/Prism.Windows/Resources/InvalidPropertyNameException">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>The entity does not contain a property with that name</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SessionStateServiceFailed" uri="ms-resource://44050trevalim.Aria2crpc/Prism.Windows/Resources/SessionStateServiceFailed">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Session state service failed</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Resources">
+			<NamedResource name="AppDescription" uri="ms-resource://44050trevalim.Aria2crpc/Resources/AppDescription"/>
+			<NamedResource name="AppDisplayName" uri="ms-resource://44050trevalim.Aria2crpc/Resources/AppDisplayName"/>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>
